@@ -1,0 +1,8 @@
+{
+  "name": "climg",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": ">=2.33.0",
+    "cheerio": ">=0.13.1"
+  }
+}
