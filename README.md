@@ -1,6 +1,6 @@
 # climg
 
-Copy direct c.ly image URLs from the command line (on systems that include `pbcopy`)
+Copy the URL of the first image found on a webpage to your clipboard, from the command line (on systems that include `pbcopy`). Intended for use with <a href="http://cl.ly">CloudApp</a> URLs, but will work on any page.
 
 ## Usage 
 
